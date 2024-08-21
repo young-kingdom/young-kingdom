@@ -8,6 +8,5 @@
 
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
 
-I have accepted 1,614 completions in 8 different coding languages using Codeium from www.codeium.com! ![image](https://github.com/young-kingdom/young-kingdom/assets/65012404/774394b0-d77d-4a24-b64b-6494c93eb756)
 
 
